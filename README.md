@@ -18,20 +18,17 @@
 
 
 ### Glad to see you here!  
-I’m a software developer who has worked in large enterprises to small start-ups. I have worked in the front-end in React and TypeScript distributing a product to 12,000 people. I have also worked in the back-end in Go and made improvements there by improving reporting accuracy and fixing race conditions. 
-
-I now specialize in application security where I make sure the SDLC and cloud infrastructure is scalable and secure. I love keeping up with the latest vulnerabilities and participating in CTFs 🏳️  
-  
+I’m a software developer who has worked in large enterprises to small start-ups. I have worked in the front-end in React and TypeScript distributing a product to 12,000 people. I have also worked in the back-end in Go and made improvements there by improving reporting accuracy and fixing race conditions.   
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on getting an OSCP Certification  
+- 🔭 I’m currently working on getting better at Kaggle competitions
   
 
-- 🌱 I’m currently learning BurpSuite for pentesting  
+- 🌱 I’m currently learning Rust
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to React stack and related technologies  
   
 
 - ⚡ Fun fact: I started a baseball hackathon in Toronto ⚾  
