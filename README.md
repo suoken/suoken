@@ -18,19 +18,9 @@
 
 
 ### Glad to see you here!  
-I’m a software developer who has worked in large enterprises to small start-ups. I have worked in the front-end in React and TypeScript distributing a product to 12,000 people. I have also worked in the back-end in Go and made improvements there by improving reporting accuracy and fixing race conditions.   
+Software engineer who used to work at Meta and RBC Capital Markets. Now a builder building ideas that have filled my head. Exicted to see where AI will take software engineering in the future and plan to use it to it's fullest extent.
 
 ## Rapidfire  
-
-- 🔭 I’m currently working on getting better at Kaggle competitions
-  
-
-- 🌱 I’m currently learning Rust
-  
-
-- ❓ Ask me about anything related to React stack and related technologies  
-  
-
 - ⚡ Fun fact: I started a baseball hackathon in Toronto ⚾  
 
 
